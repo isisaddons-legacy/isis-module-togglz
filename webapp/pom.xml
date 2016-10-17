@@ -20,7 +20,7 @@ language governing permissions and limitations under the License.
     <parent>
         <groupId>org.isisaddons.module.togglz</groupId>
         <artifactId>isis-module-togglz</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.13.0.20161017-1320</version>
     </parent>
 
     <artifactId>isis-module-togglz-webapp</artifactId>

@@ -19,7 +19,7 @@ language governing permissions and limitations under the License.
 
     <groupId>org.isisaddons.module.togglz</groupId>
     <artifactId>isis-module-togglz</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.13.0.20161017-1320</version>
 
     <name>Isis Addons Togglz Module</name>
 
@@ -342,12 +342,12 @@ language governing permissions and limitations under the License.
             <dependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>isis-module-togglz-fixture</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>1.13.0.20161017-1320</version>
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>isis-module-togglz-webapp</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>1.13.0.20161017-1320</version>
             </dependency>
 
 
